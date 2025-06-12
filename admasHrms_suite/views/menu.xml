@@ -1,0 +1,3 @@
+<odoo>
+    <menuitem id="menu_admas_hrms_suite_root" name="Admas HRMS Suite" sequence="10" web_icon="admasHrms_suite,static/description/icon.png"/>
+</odoo>
