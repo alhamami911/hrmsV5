@@ -10,7 +10,7 @@
     "author": "AdmasTech",
     "company": "AdmasTech",
     "maintainer": "AdmasTech",
-    "website": "https://www.openhrms.com",
+    "website": "https://www.admas.sa",
     "depends": [
         "hr_payroll_community",
         "account"

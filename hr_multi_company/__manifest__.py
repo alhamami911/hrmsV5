@@ -4,10 +4,10 @@
     "category": "Generic Modules/Human Resources",
     "summary": "Enables Multi-Company",
     "description": "This module enables multi company features",
-    "author": "AdmasTech Techno solutions,Open HRMS",
+    "author": "AdmasTech",
     "company": "AdmasTech",
     "maintainer": "AdmasTech",
-    "website": "https://www.openhrms.com",
+    "website": "https://www.admas.sa",
     "depends": [
         "hr",
         "hr_contract",

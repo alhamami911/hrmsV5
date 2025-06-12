@@ -27,5 +27,6 @@
     ],
     "data": [
         "views/menu.xml"
-    ]
+    ],
+    "web_icon": "admasHrms_suite/static/description/icon.png"
 }

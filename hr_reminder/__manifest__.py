@@ -4,10 +4,10 @@
     "category": "Human Resources",
     "summary": "HR Reminder For AdmasHRMS",
     "description": "This module is a powerful and easy-to-use tool that can \n    help you improve your HR processes and ensure that important events are \n    never forgotten.",
-    "author": "AdmasTech Techno solutions,Open HRMS",
+    "author": "AdmasTech",
     "company": "AdmasTech",
     "maintainer": "AdmasTech",
-    "website": "https://www.openhrms.com",
+    "website": "https://www.admas.sa",
     "live_test_url": "https://youtu.be/tOG92cMa4Rg",
     "depends": [
         "hr"

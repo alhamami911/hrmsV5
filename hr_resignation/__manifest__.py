@@ -4,10 +4,10 @@
     "category": "Human Resources",
     "summary": "Manages the resignation process of the employees",
     "description": "This module helps to create and approve/reject employee\n     resignation requests",
-    "author": "AdmasTech Techno solutions,Open HRMS",
+    "author": "AdmasTech",
     "company": "AdmasTech",
     "maintainer": "AdmasTech",
-    "website": "https://www.openhrms.com",
+    "website": "https://www.admas.sa",
     "depends": [
         "hr_employee_updation"
     ],

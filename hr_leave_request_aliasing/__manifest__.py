@@ -5,10 +5,10 @@
     "summary": "Automated Leave Request generation from Incoming Emails.",
     "description": "This module simplifies leave request creation by \n     seamlessly generating requests from incoming emails, making the process \n     efficient, saving time, and enhancing employee experience.",
     "live_test_url": "https://youtu.be/jQFAP20k_Wc",
-    "author": "AdmasTech Techno solutions, Open HRMS",
+    "author": "AdmasTech",
     "company": "AdmasTech",
     "maintainer": "AdmasTech",
-    "website": "https://www.openhrms.com",
+    "website": "https://www.admas.sa",
     "depends": [
         "hr_holidays"
     ],

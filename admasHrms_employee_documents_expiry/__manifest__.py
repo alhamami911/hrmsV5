@@ -1,18 +1,17 @@
 {
     "name": "admasHrms_employee_documents_expiry",
     "version": "18.0.1.0.0",
-    "summary": "Human Resource Management System by AdmasTech",
-    "description": "Fully integrated HRMS solution for Odoo 18 developed by AdmasTech.",
+    "category": "Human Resources",
+    "summary": "AdmasTech HRMS - Admashrms Employee Documents Expiry",
     "author": "AdmasTech",
     "website": "https://www.admas.sa",
-    "category": "Human Resources",
     "license": "LGPL-3",
+    "application": false,
+    "installable": true,
+    "auto_install": false,
     "depends": [
         "base",
         "hr"
     ],
-    "data": [],
-    "installable": true,
-    "application": true,
-    "auto_install": false
+    "data": []
 }
