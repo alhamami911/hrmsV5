@@ -1,5 +1,5 @@
 {
-    "name": "Admas HRMS",
+    "name": "admasHrms_loan_accounting",
     "version": "18.0.1.0.0",
     "summary": "Human Resource Management System by AdmasTech",
     "description": "Fully integrated HRMS solution for Odoo 18 developed by AdmasTech.",
@@ -7,9 +7,12 @@
     "website": "https://www.admas.sa",
     "category": "Human Resources",
     "license": "LGPL-3",
-    "depends": ["base", "hr"],
+    "depends": [
+        "base",
+        "hr"
+    ],
     "data": [],
-    "installable": True,
-    "application": True,
-    "auto_install": False
+    "installable": true,
+    "application": true,
+    "auto_install": false
 }
